@@ -80,6 +80,7 @@ button{
     border-radius: 40px;
     padding-right: 15px;
     padding-left: 15px;
+    margin: 5px;
 }
 
 button:hover {
@@ -138,4 +139,5 @@ legend {
 footer {
     background-color:rgb(240, 234, 245);
     margin-top: 20px;
+    padding: 3px;
 }
